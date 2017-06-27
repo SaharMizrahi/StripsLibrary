@@ -3,7 +3,11 @@ package StripsLib;
 import java.util.LinkedList;
 
 import SearchLib.Action;
-
+/**
+ * 
+ * @author Sahar Mizrahi and Gal Ezra
+ *
+ */
 public class PlanAction extends Predicate
 {
 

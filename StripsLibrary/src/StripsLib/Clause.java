@@ -1,7 +1,11 @@
 package StripsLib;
 
 import java.util.HashSet;
-
+/**
+ * 
+ * @author Sahar Mizrahi and Gal Ezra
+ *
+ */
 public class Clause extends Predicate
 {
 

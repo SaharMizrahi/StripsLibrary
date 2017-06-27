@@ -1,5 +1,9 @@
 package StripsLib;
-
+/**
+ * 
+ * @author Sahar Mizrahi and Gal Ezra
+ *
+ */
 public class Predicate
 {
 	protected String type,id,value;
@@ -61,6 +65,11 @@ public class Predicate
 		this.value = value;
 	}
 
+
+	/**********************/
+	/**getters and setters*/
+	/**********************/
+	
 	public String getType()
 	{
 		return type;
@@ -91,6 +100,5 @@ public class Predicate
 		this.value = value;
 	}
 
-	
 
 }
